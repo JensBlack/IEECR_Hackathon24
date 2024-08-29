@@ -13,20 +13,26 @@ We are well aware that tools such as ChatGPT are very usefull in writing standar
 
 While the use of these tools in scientific papers is a topic of current debate, we are here to learn something about how to implement machine learning models and **we strongly recommend to resist the little button, chatbox, or autocomplete features**.
 
+![Don't be like oldschool Batman](https://media.tenor.com/xW9HDZCcDHsAAAAM/monty-python-holy-grail.gif)
+
+
 
 ## Getting started
 
-To get started, follow these steps to open the notebook in Google Colab:
+To get started, click on the `Open in Colab` button to open the notebook in Google Colab:
 
-[Who survived the Titanic?](https://github.com/JensBlack/IEECR_Hackathon24/blob/main/IEECR_Hackathon_24_Titanic.ipynb)
+### Who survived the Titanic?
+![There was enough room for two](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU4NnU0dnZmNWtxMWhycXVrem9vb2ZobXR2MnFneGg4NzR5ZzI5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tk39314j32wGk/200.webp)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JensBlack/IEECR_Hackathon24/blob/main/IEECR_Hackathon_24_Titanic.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JensBlack/IEECR_Hackathon24/blob/main/IEECR_Hackathon_24_Titanic.ipynb)
 
 > There is a model solution in the notebook. We recommend that you try yourself first, before looking at the solution on how to implement ML models. If nothing helps, you are welcome to use the solution as a basis.
-
+--- 
 For those that are interested in a more complex challenge, the Caltech Mouse Social Behavior dataset is waiting here:
 
-[Social Interaction between two mice](https://github.com/JensBlack/IEECR_Hackathon24/blob/main/IEECR_Hackathon_24_CalMS21.ipynb)
+### Social Interaction between two mice
+
+![Mice with cloths?](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNyN2N1aXc4enZtazN4d3ZkZnpsN2t1YW9zdzkwYjBhYmQ3czVtOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZgqxnX8JznLwI/200.webp)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JensBlack/IEECR_Hackathon24/blob/main/IEECR_Hackathon_24.ipynb)
 
@@ -43,6 +49,8 @@ For those that want a little more challenge, we have a leaderboard where you are
 [Leaderboard](https://docs.google.com/spreadsheets/d/18gj6Mk55NNN0oqWoSSsMh54LOwfo6IRwG9hHDAoPODs/edit?usp=sharing)
 
 We will crown the winners at the end of the hackathon!
+
+![](https://media.tenor.com/2w4KoJYvwCQAAAAM/perfect10-judges.gif)
 
 
 
